@@ -3,13 +3,13 @@
 
  To run this app, open a new terminal and enter the following:
  
- cd music-library
- python3 homePage.py
+ - cd music-library
+ - python3 homePage.py
 
  To run microservice, open another new terminal after running the app and enter the following:
 
- cd microservice
- python3 randomNumGen.py
+ - cd microservice
+ - python3 randomNumGen.py
 
 
  
